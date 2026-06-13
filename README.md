@@ -19,7 +19,7 @@
 ## 📻 Overview
 
 ## Network Overview
-![Network Architecture](network.png)
+![Network Architecture](/network.png)
 
 
 ## 🎮 Quick start
